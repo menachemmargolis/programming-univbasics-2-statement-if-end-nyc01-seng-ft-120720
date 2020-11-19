@@ -1,1 +1,2 @@
-time # Write your solution here
+time=time.now
+if time%2=0
